@@ -1,0 +1,26 @@
+{
+  "name": "jekyll-starter-kit",
+  "version": "1.0.0",
+  "description": "A simple Jekyll website starter with Bootstrap 4.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawoonchung/jekyll-starter-kit.git"
+  },
+  "keywords": [
+    "jekyll",
+    "bootstrap"
+  ],
+  "author": "Da-Woon Chung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dawoonchung/jekyll-starter-kit/issues"
+  },
+  "homepage": "https://github.com/dawoonchung/jekyll-starter-kit#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3"
+  }
+}
